@@ -1,0 +1,8 @@
+# .gitignore file created by PCL at: Thu Mar  2 19:51:19 2017
+lib/My/Makefile
+lib/My/pm_to_blib
+lib/My/MYMETA.yml
+lib/My/MYMETA.json
+lib/My/Caller.o
+lib/My/Caller.c
+lib/My/blib
